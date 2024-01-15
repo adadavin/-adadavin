@@ -1,0 +1,5 @@
+baseURL = 'https://adadavin.neocities.org'
+languageCode = 'en-us'
+title = "Ada's Blog"
+theme = 'nostyleplease'
+publishDir = '/home/adadavin/neocities/'

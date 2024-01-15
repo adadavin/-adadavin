@@ -1,0 +1,8 @@
+baseURL = 'http://tilde.club/~adadavin/'
+languageCode = 'en-us'
+title = "Ada's Blog"
+theme = 'nostyleplease'
+publishDir = '/home/adadavin/public_html/'
+
+[markup.goldmark.renderer]
+unsafe= true
