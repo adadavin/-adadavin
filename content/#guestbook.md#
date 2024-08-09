@@ -1,8 +1,0 @@
----
-title: "Guestbook"
-date: 2023-10-08T06:50:03Z
-draft: false
----
-
-{{< embed "<iframe src="http://adadavin.123Guestbook.com/" width="100%" height="400" style="border: none;"></iframe>" >}}
-
