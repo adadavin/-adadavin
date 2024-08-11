@@ -9,10 +9,12 @@ aliases:
 ---
 
 
-<iframe src="https://adadavin.123Guestbook.com/" width="100%" height="400">
+<iframe src="http://adadavin.123Guestbook.com/" width="100%" height="400">
   <style>
     body {
       color: white; /* Change the text color to white */
     }
   </style>
 </iframe>
+
+<p> If the iframe doesn't load, please visit <a href="http://adadavin.123Guestbook.com/">the guestbook here</a>. Thank you ^-^.</p>
