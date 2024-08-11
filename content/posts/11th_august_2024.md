@@ -32,4 +32,10 @@ I hope to gain more skills in the coming months, and the next three months are g
 
 PS: I still haven't heard from any of the visitors, and I refuse to believe that I am talking to a void. I'll also be making a post about this month's most listened songs. Stay tuned!
 
+![Bright sky, how I wish my future were.](/~adadavin/images/sky2.jpg)
+
+![A pond where people put their wishes. Alas, not all of them will be true.](/~adadavin/images/small_pond.jpg)
+
+![Nearby trees, nothing special. These were from a monument I visited.](/~adadavin/images/trees.jpg)
+
 Toodles :3
