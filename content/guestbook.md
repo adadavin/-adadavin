@@ -9,7 +9,7 @@ aliases:
 ---
 
 
-<iframe src="http://adadavin.123Guestbook.com/" width="100%" height="400">
+<iframe src="https://adadavin.123Guestbook.com/" width="100%" height="400">
   <style>
     body {
       color: white; /* Change the text color to white */
